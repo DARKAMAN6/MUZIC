@@ -95,7 +95,7 @@ TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-lab/veezmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/darkaman6/muzic)
 
 ## VPS Deployment 📡
 
