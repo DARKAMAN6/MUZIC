@@ -69,9 +69,9 @@ async def start_(client: Client, message: Message):
                 ]
             ]
         ),
-     disable_web_page_preview=True
     )
-
+    reply_markup = InlineKeyboardMarkup(
+    await message.reply_photo(photo="https://telegra.ph/file/221de501e2f547a6359dd.jpg",)
 
 @Client.on_message(command(["start", f"start@{BOT_USERNAME}"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
